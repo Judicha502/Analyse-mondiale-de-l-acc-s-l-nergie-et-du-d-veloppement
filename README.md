@@ -1,4 +1,4 @@
-# Analyse-mondiale-de-l-acc-s-l-nergie-et-du-d-veloppement
+# Analyse mondiale de l'accès à l'énergie et du développement
 Python (Pandas), SQL, Power BI
 
 
